@@ -27,8 +27,8 @@ h1 {
 }
 
 .gallery li{
-	width: 150px;
-	height: 150px;
+	width: 100px;
+	height: 100px;
 	/* overflow: hidden; */
 	border: 5px solid #666;
 	float: left;
@@ -44,13 +44,13 @@ h1 {
 
 .gallery li span{
 	display: block;
-	width: 150px;
-	height: 150px;
+	width: 100px;
+	height: 100px;
 	background-color: rgba(200,200,200,.5);
 	position: absolute;
 	top: 0;
 	text-align: center;
-	line-height: 150px;
+	line-height: 100px;
 	color: #333333;
 	text-shadow: 1px 1px 1px #dddddd;
 	opacity: 0;
